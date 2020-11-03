@@ -11,6 +11,7 @@ Lastly, you can create your own HTML/CSS solution to provide a more stylized loo
   1) A textarea must be specified with the id of "textarea"
   2) Two EMPTY HTML elements that can contain text (ie. div, p, span) must exist, one with an id of "wordcount" and the other with the id of "charcount" 
   3) The "master.js" file must be accessed and run on the page
+
 Note that:
   1) the textarea will be the area for a user to enter the input that will be counted
   2) the element with an id of "charcount" will be used to display (as innerHTML) the the number of characters in the textarea
