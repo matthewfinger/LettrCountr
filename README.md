@@ -1,9 +1,9 @@
 # LettrCountr
 A simple, two file HTML/JS web app that displays a live count of both letters and words within a text
 
-Isn't it annoying when lazy devs don't provide a workaround for max characters in a form? It's always irritating to have your train of thought cut off when you reach the limit.
+Isn't it annoying when lazy devs don't provide a workaround for max characters in a form? It's always irritating to have your train of thought cut off when you reach the limit and the words you're thinking don't appear on the screen?
 
-This simple letter and word counter was created as a minimal and lightweight solution you can use to keep count of words and letters, without going through the hassle of more heavy duty program such as Microsoft Word.
+This simple letter and word counter was created as a minimal and lightweight solution you can use to keep count of words and letters, without going through the hassle of more heavy duty program such as Microsoft Word. I found it so convenient that I bookmarked it in my browser so it's always only one click away.
 
 Simply open the index.html file in a web browser to use a simple tool to count letters and words of a text. You can host it statically from a server as well.
 
